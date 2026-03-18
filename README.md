@@ -114,7 +114,7 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/chaitu999projects?style=social)](https://github.com/chaitu999projects)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/chaitu908298502) <!-- TODO: Add your Twitter handle -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/chaitu908298502?style=social)](https://twitter.com/chaitu908298502) <!-- TODO: Add your Twitter handle -->
 
 </div>
 
