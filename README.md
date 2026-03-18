@@ -62,11 +62,6 @@ My expertise lies in building dynamic and high-performance web applications usin
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu999projects&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitu999projects&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitu999projects&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
@@ -87,42 +82,6 @@ My expertise lies in building dynamic and high-performance web applications usin
 - 🚀 Deployed a new version of `[Project Name]` to production with significant performance improvements.
 <!--END_SECTION:activity-->
 
----
-
-## 🏗️ Notable Projects
-
-Here are a few projects that showcase my skills and passion for development.
-
-<div align="center">
-
-### 🌟 [MERN E-commerce Platform](https://github.com/chaitu999projects/your-ecommerce-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chaitu999projects&repo=your-ecommerce-repo&theme=tokyonight)](https://github.com/chaitu999projects/your-ecommerce-repo)
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Stripe API
-**Status:** 🚀 Production | ⭐ 150+ Stars | 🍴 45+ Forks
-*A full-fledged e-commerce application demonstrating secure authentication, product management, and payment gateway integration.*
-
----
-
-### 🔥 [Next.js Blog with Markdown Support](https://github.com/chaitu999projects/your-nextjs-blog-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chaitu999projects&repo=your-nextjs-blog-repo&theme=tokyonight)](https://github.com/chaitu999projects/your-nextjs-blog-repo)
-
-**Tech Stack:** Next.js • React • Tailwind CSS • Markdown • Vercel
-**Status:** 🚧 In Development | ⭐ 89+ Stars | 🍴 23+ Forks
-*A modern blog platform built with Next.js, featuring server-side rendering, static site generation, and easy content creation with Markdown.*
-
----
-
-### ⚡ [Real-time Chat Application](https://github.com/chaitu999projects/your-chat-app-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chaitu999projects&repo=your-chat-app-repo&theme=tokyonight)](https://github.com/chaitu999projects/your-chat-app-repo)
-
-**Tech Stack:** Node.js • Express.js • Socket.IO • MongoDB • React
-**Status:** ✅ Complete | ⭐ 200+ Stars | 🍴 67+ Forks
-*An interactive real-time chat application showcasing WebSocket communication and efficient message handling.*
-
-</div>
-
----
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
@@ -148,10 +107,10 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyamulagani) <!-- TODO: Add your LinkedIn -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chaitu908298502) <!-- TODO: Add your Twitter -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://phoenixcodes.vercel.app) <!-- TODO: Add your portfolio -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulagani.chaitanya@gmail.com) <!-- TODO: Add your email -->
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog -->
 
 ### 📱 Social Presence
