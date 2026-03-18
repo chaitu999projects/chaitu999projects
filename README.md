@@ -111,11 +111,10 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chaitu908298502) <!-- TODO: Add your Twitter -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://phoenixcodes.vercel.app) <!-- TODO: Add your portfolio -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulagani.chaitanya@gmail.com) <!-- TODO: Add your email -->
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog -->
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/chaitu999projects?style=social)](https://github.com/chaitu999projects)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/chaitu908298502) <!-- TODO: Add your Twitter handle -->
 
 </div>
 
