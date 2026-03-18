@@ -77,22 +77,22 @@ My expertise lies in building dynamic and high-performance web applications usin
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity -->
 - ⚙️ Configured `GitHub Actions` to automate deployment processes.
-- ✨ Implemented new features in `[Your Latest Project]` involving `Next.js` and `MongoDB`.
-- 📖 Updated documentation for `[Another Project]` improving clarity and examples.
-- 🚀 Deployed a new version of `[Project Name]` to production with significant performance improvements.
+- ✨ Implemented new features in `Sonalisinghrao.com` involving `Next.js` and `MongoDB`.
+- 📖 Updated documentation for `Admin Panel` improving clarity and examples.
+- 🚀 Deployed a new version of `Sonalisinghrao Resin Arts` to production with significant performance improvements.
 <!--END_SECTION:activity-->
 
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
-- 🏆 MERN Stack Developer Certification (Udemy/Coursera)
+- 🏆 MERN Stack Developer Certification (AchieversIT)
 - 📜 JavaScript Algorithms and Data Structures Master Certification
 - 🥇 HackerRank 5-star in JavaScript
 - 📚 Completed various Frontend Masters courses on React/Next.js
 
 ---
 
-## 🎯 My 2024 Goals
+## 🎯 My 2026 Goals
 <!-- TODO: Update with your current year goals -->
 - 🚀 Contribute to 5+ open source projects.
 - 📚 Deep dive into cloud native technologies like Kubernetes.
