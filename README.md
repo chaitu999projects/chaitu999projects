@@ -125,6 +125,8 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 If you found my projects helpful or learned something from my code, consider supporting my work:
 
 <div align="center">
+
+
 [![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/chaitu999projects) <!-- TODO: Replace chaitu999projects with your GitHub username -->
 
 </div>
