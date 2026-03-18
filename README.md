@@ -125,11 +125,6 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 If you found my projects helpful or learned something from my code, consider supporting my work:
 
 <div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chaitu999projects) <!-- TODO: Replace chaitu999projects with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chaitu999projects) <!-- TODO: Replace chaitu999projects with your Ko-fi username -->
-
 [![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/chaitu999projects) <!-- TODO: Replace chaitu999projects with your GitHub username -->
 
 </div>
