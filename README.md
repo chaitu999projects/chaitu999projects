@@ -13,7 +13,7 @@ A passionate Full Stack Web Developer based in **Bangalore**, dedicated to craft
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Your Latest MERN/Next.js Project]** <!-- TODO: Add your current main project -->
+- 🔭 Working on: **PhonixCodes** <!-- TODO: Add your current main project -->
 - 🌱 Learning: **Advanced Next.js features & Cloud Deployment Strategies** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source MERN Stack Projects**
 - 💬 Ask me about: **Full Stack Development, React, Node.js, MongoDB, and Web Performance** <!-- TODO: Add your areas of expertise -->
